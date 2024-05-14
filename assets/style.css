@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  background-color: #f5f4f5;
+}
+
+/*** Header ****/
+
+header {
+  display: flex;
+  background: linear-gradient(
+    60deg,
+    rgba(217, 71, 217, 1) 16%,
+    rgba(98, 220, 227, 1) 77%,
+    rgba(152, 243, 11, 1) 100%
+  );
+  padding: 2.5rem 2rem;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  color: #fff;
+  font-weight: 600;
+}
+
+.logo__img {
+  margin-right: 0.5rem;
+  width: 50px;
+  height: 50px;
+}
+
+form {
+  display: flex;
+  margin-left: auto;
+  margin-right: 0;
+  align-items: center;
+}
+
+input {
+  width: 30rem;
+  font-size: 1.7rem;
+  padding: 10px;
+  border-radius: 25px;
+  border: none;
+  position: relative;
+}
+
+.submit__btn {
+  position: absolute;
+  right: 3rem;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+}
+
+.search__btn_img {
+  width: 20px;
+  height: 20px;
+}
+
+/*** Main ****/
