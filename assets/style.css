@@ -72,15 +72,17 @@ input {
 
 /*** Giphy ****/
 
+main {
+  margin: 2rem;
+}
+
 .giphy {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  margin: 3rem;
-  gap: 30px;
+  gap: 1.5rem;
 }
 
-.giphy__img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+.giphy img {
+  width: 40rem;
+  height: 30rem;
 }
