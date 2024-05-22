@@ -20,9 +20,9 @@ Here’s a recommended guide:
 #### Installation
 
 1.  Open your browser
-2.  Paste this link in the command line https://diaaana03.github.io/Diaaana03-neobis-front-lasles-VPN/
+2.  Paste this link in the command line https://diaaana03.github.io/neobis-front-giphyAPI/
 3.  Press Enter. Website is working
 
 ##### Contact
 
-- Project Link on GitHub https://diaaana03.github.io/Diaaana03-neobis-front-lasles-VPN/
+- Project Link on GitHub https://diaaana03.github.io/neobis-front-giphyAPI/
